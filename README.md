@@ -2,7 +2,7 @@
 ![OpenWHU-WHU课代表计划](https://github.com/openwhu/OpenWHU/blob/master/OpenWHU.png)
 
 ## 项目介绍|Intro
-https://openwhu.github.io/OpenWHU/
+!https://openwhu.github.io/OpenWHU/
 
 ## 资源目录|ToC
 
