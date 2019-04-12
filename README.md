@@ -26,3 +26,13 @@
   
   
 </details>
+
+<details>
+  <summary>计算机学院</summary>
+  
+  
+  [模式识别](https://github.com/openwhu/OpenWHU/tree/master/%E4%B8%93%E4%B8%9A%E8%AF%BE/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AD%A6%E9%99%A2/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%93%E4%B8%9A/%E9%80%89%E4%BF%AE/%E6%A8%A1%E5%BC%8F%E8%AF%86%E5%88%AB/%E8%BD%AF%E5%B7%A5%E7%8F%AD)
+  
+  
+</details>
+
