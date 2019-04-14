@@ -18,7 +18,7 @@
 
 [大学物理B](https://github.com/openwhu/OpenWHU/tree/master/%E5%85%AC%E5%85%B1%E5%BF%85%E4%BF%AE/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86B)
 
-[离散数学A](https://github.com/openwhu/OpenWHU/tree/master/%E5%85%AC%E5%85%B1%E5%BF%85%E4%BF%AE/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6A
+[离散数学A](https://github.com/openwhu/OpenWHU/tree/master/%E5%85%AC%E5%85%B1%E5%BF%85%E4%BF%AE/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6A)
 
 [概率论D](https://github.com/openwhu/OpenWHU/tree/master/%E5%85%AC%E5%85%B1%E5%BF%85%E4%BF%AE/%E6%A6%82%E7%8E%87%E8%AE%BAD)
 
@@ -47,6 +47,10 @@
 #### 资源与环境科学学院 
   
 [地图学](https://github.com/openwhu/OpenWHU/tree/master/%E4%B8%93%E4%B8%9A%E8%AF%BE/%E8%B5%84%E6%BA%90%E4%B8%8E%E7%8E%AF%E5%A2%83%E7%A7%91%E5%AD%A6%E5%AD%A6%E9%99%A2/%E5%9C%B0%E5%9B%BE%E5%AD%A6)
+
+[土地管理概论](https://github.com/openwhu/OpenWHU/tree/master/%E4%B8%93%E4%B8%9A%E8%AF%BE/%E8%B5%84%E6%BA%90%E4%B8%8E%E7%8E%AF%E5%A2%83%E7%A7%91%E5%AD%A6%E5%AD%A6%E9%99%A2/%E5%9C%9F%E5%9C%B0%E7%AE%A1%E7%90%86%E6%A6%82%E8%AE%BA)
+
+[经济地理学](https://github.com/openwhu/OpenWHU/tree/master/%E4%B8%93%E4%B8%9A%E8%AF%BE/%E8%B5%84%E6%BA%90%E4%B8%8E%E7%8E%AF%E5%A2%83%E7%A7%91%E5%AD%A6%E5%AD%A6%E9%99%A2/%E7%BB%8F%E6%B5%8E%E5%9C%B0%E7%90%86%E5%AD%A6)
   
 #### 计算机学院
   
