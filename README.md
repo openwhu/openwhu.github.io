@@ -44,13 +44,17 @@
 
 ### 专业课
 
-[弘毅学堂] (https://github.com/openwhu/OpenWHU/tree/master/%E4%B8%93%E4%B8%9A%E8%AF%BE/%E5%BC%98%E6%AF%85%E5%AD%A6%E5%A0%82)
+[弘毅学堂](https://github.com/openwhu/OpenWHU/tree/master/%E4%B8%93%E4%B8%9A%E8%AF%BE/%E5%BC%98%E6%AF%85%E5%AD%A6%E5%A0%82)
+  
   
 [国际网络安全学院](https://github.com/openwhu/OpenWHU/tree/master/%E4%B8%93%E4%B8%9A%E8%AF%BE/%E5%9B%BD%E5%AE%B6%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E5%AD%A6%E9%99%A2)
 
+
 [电子信息学院](https://github.com/openwhu/OpenWHU/tree/master/%E4%B8%93%E4%B8%9A%E8%AF%BE/%E7%94%B5%E5%AD%90%E4%BF%A1%E6%81%AF%E5%AD%A6%E9%99%A2)
 
+
 [计算机学院](https://github.com/openwhu/OpenWHU/tree/master/%E4%B8%93%E4%B8%9A%E8%AF%BE/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AD%A6%E9%99%A2)
+
 
 [资源与环境科学学院](https://github.com/openwhu/OpenWHU/tree/master/%E4%B8%93%E4%B8%9A%E8%AF%BE/%E8%B5%84%E6%BA%90%E4%B8%8E%E7%8E%AF%E5%A2%83%E7%A7%91%E5%AD%A6%E5%AD%A6%E9%99%A2)
  
