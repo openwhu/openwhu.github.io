@@ -42,6 +42,10 @@
 
 [资治通鉴导读](https://github.com/openwhu/OpenWHU/tree/master/%E5%85%AC%E5%85%B1%E9%80%89%E4%BF%AE/%E8%B5%84%E6%B2%BB%E9%80%9A%E9%89%B4)
 
+[人口资源环境与可持续发展](https://github.com/openwhu/OpenWHU/tree/master/%E5%85%AC%E5%85%B1%E9%80%89%E4%BF%AE/%E4%BA%BA%E5%8F%A3%E8%B5%84%E6%BA%90%E7%8E%AF%E5%A2%83%E4%B8%8E%E5%8F%AF%E6%8C%81%E7%BB%AD%E5%8F%91%E5%B1%95)
+
+[人工智能进展](https://github.com/openwhu/OpenWHU/tree/master/%E5%85%AC%E5%85%B1%E9%80%89%E4%BF%AE/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%BF%9B%E5%B1%95)
+
 ### 专业课
 
 
