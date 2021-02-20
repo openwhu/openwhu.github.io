@@ -34,7 +34,6 @@ extra:
   pagetime: 'on'
   search:
     language: 'jp'
-  disqus: 'islibra'
 
 # Extensions
 markdown_extensions:
