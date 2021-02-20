@@ -18,6 +18,7 @@ theme:
   name: material
   favicon: images/favicon.png
   language: zh
+  custom_dir: overrides
   palette:
     primary: 'cyan'
     accent: 'red'
@@ -31,6 +32,7 @@ remote_branch: master
 # extra_css: 
 #   - stylesheets/purple.css
 extra:
+  disqus: disqus
   pagetime: 'on'
   search:
     language: 'jp'
