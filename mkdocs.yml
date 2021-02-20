@@ -18,7 +18,6 @@ theme:
   name: material
   favicon: images/favicon.png
   language: zh
-  prebuild_index: true
   palette:
     primary: 'cyan'
     accent: 'red'
