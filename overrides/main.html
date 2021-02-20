@@ -9,25 +9,15 @@
     {% if not page.is_homepage and disqus %}
         {% set pageID = page.title | default("404", true) %}
         <h2 id="__comments" data-no-instant>{{ lang.t("meta.comments") }}</h2>
-        <form id="gitalk-form" onsubmit="return false;" data-no-instant>
-            <div id="gitalk-container" data-no-instant></div>
-        </form>
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@latest/dist/gitalk.min.css">
-        <script src="https://cdn.jsdelivr.net/npm/gitalk@latest/dist/gitalk.min.js"></script>
+        <div id="vcomments"></div>
+        <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
         <script src="https://cdnjs.loli.net/ajax/libs/blueimp-md5/2.10.0/js/md5.min.js"></script>
         <script>
-            const gitalk = new Gitalk({
-            clientID: '5e5fb9bba12e87397f3e',
-            clientSecret: '7b71f0f13118c4f4bb8bd5df26a9099721b68a94',
-            repo: 'comment',  // 使用单独的仓评论
-            owner: 'OpenWHU-D',  // 仓库所有者
-            admin: ['OpenWHU-D','Crescentm'],  // 仓库管理员列表
-            id: md5(location.pathname),
-            distractionFreeMode: false,  // 全屏遮罩效果
-            pagerDirection: 'last',  // 排序方式：first按评论创建时间正序，last倒序
-            proxy: 'https://cors.openwhu.workers.dev/?https://github.com/login/oauth/access_token'
+            new Valine({
+            el: '#vcomments',
+            appId: 'wdw0wAH6LH5XrCBEPki613rm-gzGzoHsz',
+            appKey: '4A2n4A4jRFlMnSuPJ4Xv1AzA'
             })
-            gitalk.render('gitalk-container')
         </script>
     {% endif %}
 {% endblock %}
