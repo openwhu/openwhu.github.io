@@ -38,7 +38,7 @@ git pull
 > **Resilio Sync**（曾经名为“BitTorrent Sync”）是由BitTorrent公司开发的专有的对等网络对等网络)数据同步工具，可在Windows、OS X、Linux、Android、iOS和FreeBSD上使用。其可在局域网、互联网上通过安全的、分布式的P2P技术在不同设备之间同步文件。
 
 ```
-KEY: AQ3WPYLKUYKWNZGG6BRYKEJ7ISSE4HTWX
+KEY: B56DBIGX4BZDI5ZFWVF76K7E77MS3GMWO
 ```
 
 ### 6. [下载站](https://onedrive.openwhu.workers.dev/OpenWHU/)
