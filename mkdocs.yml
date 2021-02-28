@@ -30,6 +30,11 @@ theme:
 # Deploy
 remote_branch: master
 
+# Google Analytics
+google_analytics:
+  - UA-190786343-1
+  - auto
+
 # Customization
 # extra_css: 
 #   - stylesheets/purple.css
