@@ -1,0 +1,3 @@
+[submodule "docs/CourseR"]
+	path = docs/CourseR
+	url = https://github.com/openwhu/CourseR.git

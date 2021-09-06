@@ -3,17 +3,6 @@ site_name: OpenWHU
 site_url: https://openwhu.github.io
 repo_url: https://github.com/openwhu/OpenWHU
 
-# Contents
-nav:
-  - 首页: index.md
-  - 上传: upload.md
-  - 下载: download.md
-  - 留声箱:
-    - 写给考虑读研的同学: MessageBox/写给考虑读研的同学.md
-    - 我与OpenWHU: MessageBox/我和OpenWHU.md
-  - 关于: about.md
-  - 相关项目: relate.md
-  - 联系我们: contact.md
 
 # Theme
 theme:
@@ -26,6 +15,17 @@ theme:
     accent: 'red'
   features:
     - navigation.tabs
+    - navigation.instant
+
+# Contents
+nav:
+  - 首页: index.md
+  - 上传: upload.md
+  - 下载: download.md
+  - ...
+  - 关于: about.md
+  - 相关项目: relate.md
+  - 联系我们: contact.md
 
 # Deploy
 remote_branch: master
@@ -43,6 +43,10 @@ extra:
   pagetime: 'on'
   search:
     language: 'jp'
+
+plugins:
+    - search
+    - awesome-pages
 
 # Extensions
 markdown_extensions:
