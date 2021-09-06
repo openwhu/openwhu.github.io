@@ -12,10 +12,6 @@ jobs:
       - name: Checkout main
         uses: actions/checkout@v2
 
-      - name: install plugin
-        run: |
-          pip install mkdocs-awesome-pages-plugin
-
       - name: Deploy docs
         uses: mhausenblas/mkdocs-deploy-gh-pages@master
         # Or use mhausenblas/mkdocs-deploy-gh-pages@nomaterial to build without the mkdocs-material theme
@@ -23,3 +19,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           CONFIG_FILE: mkdocs.yml
           EXTRA_PACKAGES: build-base
+          REQUIREMENTS: ./requirements.txt
