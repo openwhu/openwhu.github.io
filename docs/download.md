@@ -6,11 +6,18 @@
 
 如果有更方便的方法，欢迎提出Issue。
 
-### 1. 网页下载
+### 1.下载站
+
+应该是目前最快捷的下载方式，敬请使用
+
+[OpenWHU下载站](https://download.openwhu.cn)
+<!-- 等域名备案好了就上线 --> 
+
+### 2. 网页下载
 
 在Github选择相应文件下载即可
 
-### 2. Clone全仓库
+### 3. Clone全仓库
 
 如果有充分的时间和空间，推荐使用Clone下全项目。以此种方式下载可以保持与仓库同步。
 
@@ -25,25 +32,13 @@ git pull
 >
 > [svn 下载 github 上的单个目录或文件](https://www.runoob.com/w3cnote/svn-co-github-dir.html)
 
-### 3. [DownGit](https://minhaskamal.github.io/DownGit/#/home)
+### 4. [DownGit](https://minhaskamal.github.io/DownGit/#/home)
 
 只要把目录链接拷贝粘贴，然后点击Download就可以下载目录的压缩文件
 
-### 4. GitZip for github
+### 5. GitZip for github
 
 仅提供[Chrome商店地址](https://chrome.google.com/webstore/detail/gitzip-for-github/ffabmkklhbepgcgfonabamgnfafbdlkn)，使用方法自寻
-
-### 5.Resilio Sync
-
-> **Resilio Sync**（曾经名为“BitTorrent Sync”）是由BitTorrent公司开发的专有的对等网络对等网络)数据同步工具，可在Windows、OS X、Linux、Android、iOS和FreeBSD上使用。其可在局域网、互联网上通过安全的、分布式的P2P技术在不同设备之间同步文件。
-
-```
-KEY: B56DBIGX4BZDI5ZFWVF76K7E77MS3GMWO
-```
-
-### 6. [下载站](https://onedrive.openwhu.workers.dev/OpenWHU/)
-
-使用[onedrive-cf-index](https://github.com/spencerwooo/onedrive-cf-index)搭建的下载站，提供压缩包文件
 
 
 
