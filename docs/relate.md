@@ -1,5 +1,9 @@
-# 相关项目|Related Works
+# 友链|Related Works
 
+
+- [CityU GuideBook](https://penjc.github.io/CityU/) 
+    
+    A comprehensive platform for CityUHK students.
 
 - [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)
 - [气垫船计划——免费、去中心化的北京大学往年题资料库](https://github.com/martinwu42/project-hover)
